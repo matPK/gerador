@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31/08/2017, 16:01:44
+    Author     : Matheus
+*/
+body {
+    /*header and footer*/
+    padding-top: $navbar-height;
+    margin-bottom: $footer-height;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: $footer-height;
+    background-color: lightgrey;
+}
+
+#home-title {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    span {
+        font-size: 70px;
+        letter-spacing: 10px;
+    }
+}
