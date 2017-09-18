@@ -21,7 +21,7 @@
 
 @endsection
 
-@section('title', '| Create New User')
+@section('title', 'Create New User')
 
 @section('content')
 <!-- content goes below -->

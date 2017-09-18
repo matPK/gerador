@@ -21,7 +21,7 @@
 
 @endsection
 
-@section('title', '| Edit Group')
+@section('title', 'Edit Group')
 
 @section('content')
 <!-- content goes below -->

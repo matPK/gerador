@@ -21,7 +21,7 @@
 
 @endsection
 
-@section('title', '| Create New Group')
+@section('title', 'Create New Group')
 
 @section('content')
 <!-- content goes below -->
